@@ -18,7 +18,6 @@ Task Scheduler Library/Microsoft/Windows/Windows Defender
 For each of the tasks listed below, do the following:
 Right click -> properties, go to conditions tab, check the box for 'Start the task only if the computer is idle for' select 30 minutes (or longer). Check - 'Stop the task if the computer ceases to be idle'
 
-* Windows Defender
 * Windows Defender Cache Maintenance
 * Windows Defender  DIsk Cleanup
 * Windows Defender  Scheduled Scan
